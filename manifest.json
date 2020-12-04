@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+
+  "name": "Linkedin Exporter",
+  "description": "This extension allows the user to export their Linkedin profile",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "css": ["src/css/style.css" ],
+      "matches": ["https://www.linkedin.com/*"],
+      "js": ["src/js/jquery.js", "src/js/jquery.csv.min.js", "myscript.js"]
+    }
+  ],
+  
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "storage",
+    "*://*/*",
+    "cookies",
+    "http://www.facebook.com/*"
+  ]
+}

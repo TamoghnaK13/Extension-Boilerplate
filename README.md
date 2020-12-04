@@ -2,7 +2,7 @@
 An Extension Boilerplate for Beginners that is easy to use, modify, share, e.t.c.
 | You'll Need: |   |
 | ------------ | - |
-| [GitHub](http://www.github.com/signup) account | Basic [HTML](http://learn.shayhowe.com/html-css/) |
+| A [GitHub](http://www.github.com/signup) account | Basic [HTML and CSS](http://learn.shayhowe.com/html-css/) |
 
 ### First, fork this repository.
 

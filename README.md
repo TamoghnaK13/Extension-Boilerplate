@@ -1,5 +1,5 @@
 # Extension-Boilerplate
-An Extension Boilerplate for Beginners that is easy to use, modify, share, e.t.c.
+An Extension Boilerplate.
 | You'll Need: |   |
 | ------------ | - |
 | A [GitHub](http://www.github.com/signup) account | Basic [HTML and CSS](http://learn.shayhowe.com/html-css/) |
